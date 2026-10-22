@@ -4,4 +4,10 @@ eclipse-temurin:17-jre-ubi9-minimal
 eclipse-temurin:17-jdk-ubi9-minimal
 eclipse-temurin:8-jre-ubi9-minimal
 eclipse-temurin:8-jdk-ubi9-minimal
+eclipse-temurin:21-jre-ubi10-minimal
+eclipse-temurin:21-jdk-ubi10-minimal
+eclipse-temurin:17-jre-ubi10-minimal
+eclipse-temurin:17-jdk-ubi10-minimal
+eclipse-temurin:8-jre-ubi10-minimal
+eclipse-temurin:8-jdk-ubi10-minimal
 anapsix/alpine-java:8_jdk
